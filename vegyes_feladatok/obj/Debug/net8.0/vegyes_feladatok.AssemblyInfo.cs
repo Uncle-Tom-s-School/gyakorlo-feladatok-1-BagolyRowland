@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vegyes_feladatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c834ef4ef5506f1be55b76ebcb5d08fc70cf7f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41ad97fcd1cf130a0d2d52109373dd3e09b48781")]
 [assembly: System.Reflection.AssemblyProductAttribute("vegyes_feladatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vegyes_feladatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
